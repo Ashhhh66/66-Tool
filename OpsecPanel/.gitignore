@@ -1,0 +1,8 @@
+config.yaml
+checklist.yaml
+venv/
+.venv/
+__pycache__/
+*.pyc
+output/
+.python-version

@@ -1,0 +1,20 @@
+# Copy this file to config.yaml and edit. Never commit API keys.
+# Environment variables override these values:
+#   TOOL66_OUTPUT_DIR, TOOL66_SCRUB_DIR
+
+output_dir: "./output"
+default_scrub_dir: ""
+
+shred:
+  passes: 3
+
+password:
+  length: 20
+  letters: true
+  digits: true
+  symbols: true
+  passphrase_words: 6
+
+hibp:
+  api_key: ""
+  user_agent: "66-Tool (personal privacy hygiene tool)"

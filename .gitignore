@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.DS_Store
+.pytest_cache/
+dist/
+build/
+.66-tool-last.json
+66-tool-report.json
+66-tool-report.md
