@@ -17,7 +17,7 @@ from rich.text import Text
 from safety import format_size
 
 PAGE_1: tuple[tuple[str, str, str], ...] = (
-    ("1", "Metadata Scrubber", "Strip EXIF/metadata from images and PDFs"),
+    ("1", "Metadata Scrubber", "Strip EXIF/metadata from images, PDFs, and MP4/MOV"),
     ("2", "Network Leak Checker", "Public IP, DNS leak hints, VPN/Tor status"),
     ("3", "Secure File Shredder", "Overwrite then delete files you own"),
     ("4", "Password Generator", "Cryptographically strong passwords / Diceware"),

@@ -1,0 +1,20 @@
+66-Tool — personal use license (one-time purchase)
+
+Copyright (c) Ashh66 / ashh66.dev
+
+This license is for one person, for their own machines.
+
+You may:
+  - Install and run 66-Tool for your own privacy / hygiene work
+  - Make backup copies for yourself
+
+You may not:
+  - Resell, rent, or include 66-Tool in another paid product
+  - Publish the binaries or source as a free download
+  - Use it to inspect, shred, or look up anyone else's data
+
+No warranty. Metadata scrub and shred are best-effort. Not a forensic or legal guarantee.
+Instagram / other apps may still label video from the picture itself, not from file tags.
+
+Contact: Ashh66.dev@gmail.com
+Site: https://ashh66.dev

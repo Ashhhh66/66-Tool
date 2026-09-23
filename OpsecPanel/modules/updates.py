@@ -15,7 +15,7 @@ from rich.table import Table
 from safety import http_get
 from ui import info, warn
 
-PACKAGES = ("rich", "PyYAML", "Pillow", "pypdf")
+PACKAGES = ("rich", "PyYAML", "Pillow", "pypdf", "mutagen")
 
 
 def _installed(name: str) -> str:

@@ -81,7 +81,7 @@ def show_help(console: Console) -> None:
     table.add_column("Tool")
     table.add_column("What it does")
     rows = (
-        ("1", "Metadata Scrubber", "Strip EXIF and PDF metadata before you share a file."),
+        ("1", "Metadata Scrubber", "Strip EXIF, PDF, and MP4/MOV metadata before you share a file."),
         ("2", "Network Leak Checker", "Your public IP, DNS resolver hints, VPN/Tor heuristics."),
         ("3", "Secure File Shredder", "Overwrite your files with random data, then delete them."),
         ("4", "Password Generator", "secrets-module passwords and Diceware passphrases."),
